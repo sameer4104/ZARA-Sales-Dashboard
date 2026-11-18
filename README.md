@@ -2,6 +2,14 @@
 
 A 3-page interactive Excel dashboard that analyzes ZARA retail sales, customer behavior, product performance, and store returns.
 
+## 📂 Dataset & Dashboard File
+
+The full dataset (125,000 rows) is too large for GitHub, so it is hosted on Google Drive.
+
+👉 [**Open the Excel file on Google Drive**](https://docs.google.com/spreadsheets/d/12LPkfwCfLBsDrvKJ1NefzG4WzYZOSiSz/edit)
+
+> 💡 Use **File → Download** in Google Sheets to get a copy.
+
 ## 📌 Project Overview
 The goal of this project is to turn raw ZARA sales data into clear, decision-ready insights. The dashboard helps answer questions like:
 - How are overall sales and revenue performing?
