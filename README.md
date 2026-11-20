@@ -70,7 +70,7 @@ ZARA-Retail-Analytics-Dashboard/
 └── images/
     ├── executive.png
     ├── customer-product.png
-    └── store-return.png
+    └── store-return.png.
 ```
 
 ## 🚀 How to Use
