@@ -70,7 +70,7 @@ ZARA-Retail-Analytics-Dashboard/
 └── images/
     ├── executive.png
     ├── customer-product.png
-    └── store-return.png.
+    └── store-return.png
 ```
 
 ## 🚀 How to Use
@@ -80,4 +80,4 @@ ZARA-Retail-Analytics-Dashboard/
 
 ## 👤 Author
 **SAMEER DAS**
-[LinkedIn link] | sd7491291@gmail.com
+[https://www.linkedin.com/in/sameer-das-683438413/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bpy81GAHbQJaCtZC2o5kR5w%3D%3D] | [sd7491291@gmail.com]
